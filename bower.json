@@ -7,7 +7,10 @@
     "polymer": "Polymer/polymer#^1.10.1",
     "hax-body-behaviors": "LRNWebComponents/hax-body-behaviors#^1.12.4",
     "materializecss-styles": "LRNWebComponents/materializecss-styles#^1.2.1",
-    "schema-behaviors": "LRNWebComponents/schema-behaviors#^1.0.0"
+    "schema-behaviors": "LRNWebComponents/schema-behaviors#^1.0.0",
+    "iron-icons": "PolymerElements/iron-icons#^2.1.1",
+    "iron-image": "PolymerElements/iron-image#^2.2.1",
+    "mdi-iconset-svg": "kriss-kross-io/mdi-iconset-svg#^2.0.2"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
@@ -16,6 +19,7 @@
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
   },
   "resolutions": {
-    "webcomponentsjs": "^0.7.24"
+    "webcomponentsjs": "^0.7.24",
+    "iron-icons": "^2.1.1"
   }
 }
